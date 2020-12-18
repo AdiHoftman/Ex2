@@ -1,5 +1,6 @@
 # POKEMON GAME
 
+
 The project has to parts, in the first part we build a directed weighted graph and in the second part we get a “pokemon game”  and we need to efficient it, in this game the agents try to eat the pokemons as fast as they can, the agents run on a directed weighted graph created a graph with nodes, and make actions on that graph.
 This project contains weighted graph data structure and implementation of several algorithms on weighted directed graph.
 # Part one:
@@ -11,7 +12,7 @@ This project contains weighted graph data structure and implementation of severa
 
 4.[GeoLocation](https://github.com/AdiHoftman/Ex2--OOP/blob/main/README.md#geolocation)
 
-5.[DWGraph_Algo])https://github.com/AdiHoftman/Ex2--OOP/blob/main/README.md#dwgraph_algo(
+5.[DWGraph_Algo](https://github.com/AdiHoftman/Ex2--OOP/blob/main/README.md#dwgraph_algo)
 
 # NodeData:
 This class represents the set of operations applicable on a node (vertex) in an (undirectional) weighted graph.
