@@ -8,36 +8,37 @@ This project contains weighted graph data structure and implementation of severa
 # NodeData:
 This class represents the set of operations applicable on a node (vertex) in an (undirectional) weighted graph.
 
-NodeData objects:
+## NodeData objects:
 int key – represents the id of the nodes.
 geo_location location – represents the location of the nodes.
 double weight – represents the weight of the nodes.
 int tag – represents the temporal data of the nodes.
 String info – represents the information of the nodes.
 
-Main Methods:
+## Main Methods:
 getKey() – return the id of the node.
 getLocation() – return the location of the node.
 setLocation(geo_location p) – change the location of the node.
 getWeight() – return the weight of the node.
 setWeight() – change the weight of then node.
 
-EdgeData:
+# EdgeData:
 This class represents the set of operations applicable on a directional edge in a directional weighted graph.
 
-EdgeData objects:
+## EdgeData objects:
 int src – represents which node the edge came from.
 int dest – represents the destination of the edge.
 double weight - represents how much time it take to run on the edge, higher weight means longer to pass.
 String info – represents the information of the edge.
 int tag – represents the temporal data of the edges.
-Main Methods:
+
+## Main Methods:
 getSrc() – return from which node of the edge came from.
 getDest() – return destination of the edge.
 getWeight() – return weight of the edge.
 setWeight(double e) – change the weight of the edge.
 
-DWGraph_DS:
+# DWGraph_DS:
 This class represents a directional weighted graph.
 DWGraph_DS objects:
 HashMap<Integer, node_data> vertices - represents a hash that get an id of a node.
@@ -47,7 +48,7 @@ int nodeSize – represents the number of the nodes on the graph.
 int edgeSize – represents the number of edges on the graph.
 int mC – counts all the changes in the graph.
 
-Main Methods:
+## Main Methods:
 getNode(int key) – returns the node_data by the node_id, the complexity is O(1).
 getEdge(int src, int dest) – returns the data of the edge(src, dest), null if none, the complexity is O(1).
 addNode(node_data n) – adds a new node to the graph with the given node_data, the complexity is O(1).
@@ -60,20 +61,20 @@ nodeSize() – return the number of nodes in the graph, the complexity is O(1).
 edgeSize() – return the number of the edges in the graph, the complexity is O(1).
 getMC() – return the number of changes in the graph.
 
-GeoLocation:
+# GeoLocation:
 This class represents a geo location <x,y,z>, aka Point3D.
 GeoLocation objects:
 double x, double y, double z.
 Main Methods :
 distance(geo_location g) – calculate the distance between 2 points.
 
-DWGraph_Algo:
+# DWGraph_Algo:
  This class represents some algorithms in a directed weighted graph.
 DWGraph_Algo objects:
 directed_weighted_graph graph – a graph that represents the DWGraph_DS and can uses it’s functions.
 HashMap<Integer, HashMap<Integer, node_data>> aba – a HashMap that get the parent node for another node.
 
-Main Methods:
+## Main Methods:
 init(directed_weightd_graph g) – initialize the graph.
 getGraph() – return the underlying in the graph.
 copy() – return a deep copy by create a new graph and save all the object’s source graph in the new graph.
