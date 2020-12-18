@@ -4,6 +4,7 @@ The project has to parts, in the first part we build a directed weighted graph a
 This project contains weighted graph data structure and implementation of several algorithms on weighted directed graph.
 # Part one:
 1.[NodeData](https://github.com/AdiHoftman/Ex2--OOP/blob/main/README.md#nodedata)
+2.[EdgeData](https://github.com/AdiHoftman/Ex2--OOP/blob/main/README.md#edgedata)
 
 # NodeData:
 This class represents the set of operations applicable on a node (vertex) in an (undirectional) weighted graph.
