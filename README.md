@@ -9,7 +9,9 @@ This project contains weighted graph data structure and implementation of severa
 
 3.[DWGraph_DS](https://github.com/AdiHoftman/Ex2--OOP/blob/main/README.md#dwgraph_ds)
 
-4.[GeoLocation]
+4.[GeoLocation](https://github.com/AdiHoftman/Ex2--OOP/blob/main/README.md#geolocation)
+
+5.[DWGraph_Algo]
 
 # NodeData:
 This class represents the set of operations applicable on a node (vertex) in an (undirectional) weighted graph.
