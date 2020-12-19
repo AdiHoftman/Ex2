@@ -5,6 +5,7 @@ The project has to parts, in the first part we build a directed weighted graph a
 This project contains weighted graph data structure and implementation of several algorithms on weighted directed graph.
 
 [Part one](https://github.com/AdiHoftman/Ex2#part-one)
+
 [Part two](https://github.com/AdiHoftman/Ex2/blob/main/README.md#part-two)
 
 # Part one:
