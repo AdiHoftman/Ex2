@@ -4,9 +4,9 @@
 The project has to parts, in the first part we build a directed weighted graph and in the second part we get a “pokemon game”  and we need to efficient it, in this game the agents try to eat the pokemons as fast as they can, the agents run on a directed weighted graph created a graph with nodes, and make actions on that graph.
 This project contains weighted graph data structure and implementation of several algorithms on weighted directed graph.
 ************************
-[the pokemon game](https://github.com/AdiHoftman/Ex2/blob/main/README.md#the pokemon game)
+[the pokemon game](https://github.com/AdiHoftman/Ex2/blob/main/README.md#part2)
 
-[the graph](https://github.com/AdiHoftman/Ex2#the graph)
+[the graph](https://github.com/AdiHoftman/Ex2#part1)
 
 
 we will start to explain from the seconed part of the project, to make people more interest.
