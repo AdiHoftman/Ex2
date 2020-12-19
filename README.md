@@ -28,7 +28,7 @@ we use Jframe to show the game and the map to the user.
 
 [3. DWGraph_DS](https://github.com/AdiHoftman/Ex2/blob/main/README.md#dwgraph_ds)
 
-[4. GeoLocation](https://github.com/AdiHoftman/Ex2--OOP/blob/main/README.md#geolocation)
+[4. GeoLocation](https://github.com/AdiHoftman/Ex2/blob/main/README.md#geolocation)
 
 [5. DWGraph_Algo](https://github.com/AdiHoftman/Ex2--OOP/blob/main/README.md#dwgraph_algo)
 
