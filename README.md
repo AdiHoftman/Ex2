@@ -17,12 +17,12 @@ the pokemon game is really to create an efficient and smart algorithm that uses 
 the algorithm need to be with high score but we have actually a limit of moves so you must do it smart, to make the thread go sleep and when to use them to move the agent
 accros the map.
 this game work by thread which activate **game.move()** and in that part we have to try and think what agent will go to which pokemon.
-we use Jframe to show the game and the map to the user.
+we use **Jframe** to show the game and the map to the user.
 
 
 **********************
 # the graph:
-[1. NodeData](https://github.com/AdiHoftman/Ex2/blob/main/README.md#nodedata)
+[1. NodeData](https://github.com/AdiHoftman/Ex2--OOP/blob/main/README.md#nodedata)
 
 [2. EdgeData](https://github.com/AdiHoftman/Ex2--OOP/blob/main/README.md#edgedata)
 
