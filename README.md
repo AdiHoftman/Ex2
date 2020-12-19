@@ -6,7 +6,7 @@ This project contains weighted graph data structure and implementation of severa
 ************************
 [the pokemon game](https://github.com/AdiHoftman/Ex2#the-pokemon-game)
 
-[the graph](https://github.com/AdiHoftman/Ex2#part1)
+[the graph](https://github.com/AdiHoftman/Ex2#the-graph)
 
 
 we will start to explain from the seconed part of the project, to make people more interest.
