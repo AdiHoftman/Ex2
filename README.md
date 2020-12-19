@@ -4,14 +4,14 @@
 The project has two parts, in the first part we built a directed weighted graph and in the second part we get a “pokemon game”  and we need to efficient it, in this game the agents try to eat the pokemons as fast as they can, the agents run on a directed weighted graph created a graph with nodes, and make actions on that graph.
 This project contains weighted graph data structure and implementation of several algorithms on weighted directed graph.
 ************************
-[the pokemon game](https://github.com/AdiHoftman/Ex2#the-pokemon-game)
+[The pokemon game](https://github.com/AdiHoftman/Ex2#the-pokemon-game)
 
-[the graph](https://github.com/AdiHoftman/Ex2#the-graph)
+[The graph](https://github.com/AdiHoftman/Ex2#the-graph)
 
 
 we will start to explain from the seconed part of the project, to make people more interest.
 *********************
-# the pokemon game:
+# The pokemon game:
 in this section i will explain what actually is the **pokemon game**.
 the pokemon game is really to create an efficient and smart algorithm that uses **threads and GUI** to represent us the game.
 the algorithm need to be with high score but we have actually a limit of moves so you must do it smart, to make the thread go sleep and when to use them to move the agent
@@ -21,7 +21,7 @@ we use Jframe to show the game and the map to the user.
 
 
 **********************
-# the graph:
+# The graph:
 [1. NodeData](https://github.com/AdiHoftman/Ex2/blob/main/README.md#nodedata)
 
 [2. EdgeData](https://github.com/AdiHoftman/Ex2/blob/main/README.md#edgedata)
@@ -49,6 +49,7 @@ setLocation(geo_location p) – change the location of the node.
 getWeight() – return the weight of the node.
 setWeight() – change the weight of then node.
 
+**********************
 # EdgeData:
 This class represents the set of operations applicable on a directional edge in a directional weighted graph.
 
@@ -65,6 +66,7 @@ getDest() – return destination of the edge.
 getWeight() – return weight of the edge.
 setWeight(double e) – change the weight of the edge.
 
+**********************
 # DWGraph_DS:
 This class represents a directional weighted graph.
 DWGraph_DS objects:
@@ -88,6 +90,7 @@ nodeSize() – return the number of nodes in the graph, the complexity is O(1).
 edgeSize() – return the number of the edges in the graph, the complexity is O(1).
 getMC() – return the number of changes in the graph.
 
+**********************
 # GeoLocation:
 This class represents a geo location <x,y,z>, aka Point3D.
 GeoLocation objects:
@@ -95,6 +98,7 @@ double x, double y, double z.
 Main Methods :
 distance(geo_location g) – calculate the distance between 2 points.
 
+**********************
 # DWGraph_Algo:
  This class represents some algorithms in a directed weighted graph.
 DWGraph_Algo objects:
