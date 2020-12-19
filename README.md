@@ -3,12 +3,25 @@
 
 The project has to parts, in the first part we build a directed weighted graph and in the second part we get a “pokemon game”  and we need to efficient it, in this game the agents try to eat the pokemons as fast as they can, the agents run on a directed weighted graph created a graph with nodes, and make actions on that graph.
 This project contains weighted graph data structure and implementation of several algorithms on weighted directed graph.
+************************
+[the pokemon game](https://github.com/AdiHoftman/Ex2/blob/main/README.md#part-two)
 
-[Part one](https://github.com/AdiHoftman/Ex2#part-one)
+[the graph](https://github.com/AdiHoftman/Ex2#part-one)
 
-[Part two](https://github.com/AdiHoftman/Ex2/blob/main/README.md#part-two)
 
-# Part one:
+we will start to explain from the seconed part of the project, to make people more interest.
+*********************
+# the pokemon game:
+in this section i will explain what actually is the **pokemon game**.
+the pokemon game is really to create an efficient and smart algorithm that uses **threads and GUI** to represent us the game.
+the algorithm need to be with high score but we have actually a limit of moves so you must do it smart, to make the thread go sleep and when to use them to move the agent
+accros the map.
+this game work by thread which activate **game.move()** and in that part we have to try and think what agent will go to which pokemon.
+
+
+
+**********************
+# the graph:
 [1. NodeData](https://github.com/AdiHoftman/Ex2--OOP/blob/main/README.md#nodedata)
 
 [2. EdgeData](https://github.com/AdiHoftman/Ex2--OOP/blob/main/README.md#edgedata)
@@ -98,6 +111,5 @@ shortestPath(int src, int dest) - calculate the shortest path distance from src 
 save(String file) - saves the weighted graph to the given file name, return true if the file is save.
 load(String file) – loads a graph to this graph algorithm, if it successful, the function return true, else, return false.
 
-# Part two:
 
 
