@@ -9,15 +9,15 @@ This project contains weighted graph data structure and implementation of severa
 [Part two](https://github.com/AdiHoftman/Ex2/blob/main/README.md#part-two)
 
 # Part one:
-1.[NodeData](https://github.com/AdiHoftman/Ex2--OOP/blob/main/README.md#nodedata)
+[1.NodeData](https://github.com/AdiHoftman/Ex2--OOP/blob/main/README.md#nodedata)
 
-2.[EdgeData](https://github.com/AdiHoftman/Ex2--OOP/blob/main/README.md#edgedata)
+[2.EdgeData](https://github.com/AdiHoftman/Ex2--OOP/blob/main/README.md#edgedata)
 
-3.[DWGraph_DS](https://github.com/AdiHoftman/Ex2--OOP/blob/main/README.md#dwgraph_ds)
+[3.DWGraph_DS](https://github.com/AdiHoftman/Ex2--OOP/blob/main/README.md#dwgraph_ds)
 
-4.[GeoLocation](https://github.com/AdiHoftman/Ex2--OOP/blob/main/README.md#geolocation)
+[4.GeoLocation](https://github.com/AdiHoftman/Ex2--OOP/blob/main/README.md#geolocation)
 
-5.[DWGraph_Algo](https://github.com/AdiHoftman/Ex2--OOP/blob/main/README.md#dwgraph_algo)
+[5.DWGraph_Algo](https://github.com/AdiHoftman/Ex2--OOP/blob/main/README.md#dwgraph_algo)
 
 # NodeData:
 This class represents the set of operations applicable on a node (vertex) in an (undirectional) weighted graph.
