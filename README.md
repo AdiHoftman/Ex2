@@ -22,7 +22,7 @@ we use Jframe to show the game and the map to the user.
 
 **********************
 # the graph:
-[1. NodeData](https://github.com/AdiHoftman/Ex2--OOP/blob/main/README.md#nodedata)
+[1. NodeData](https://github.com/AdiHoftman/Ex2/blob/main/README.md#nodedata)
 
 [2. EdgeData](https://github.com/AdiHoftman/Ex2--OOP/blob/main/README.md#edgedata)
 
