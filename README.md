@@ -19,6 +19,7 @@ accros the map.
 this game work by thread which activate **game.move()** and in that part we have to try and think what agent will go to which pokemon.
 we use Jframe to show the game and the map to the user.
 
+![WhatsApp Image 2020-12-19 at 20 18 54](https://user-images.githubusercontent.com/73074680/102696521-b6a78b00-4237-11eb-9b74-654a60a40fcc.jpeg)
 
 
 **********************
