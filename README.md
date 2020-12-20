@@ -1,4 +1,4 @@
-# project of the POKEMON GAME
+# Project of the POKEMON GAME
 
 
 The project has two parts, in the first part we built a directed weighted graph and in the second part we get a “pokemon game”  and we need to efficient it, in this game the agents try to eat the pokemons as fast as they can, the agents run on a directed weighted graph created a graph with nodes, and make actions on that graph.
@@ -18,6 +18,7 @@ the algorithm need to be with high score but we have actually a limit of moves s
 accros the map.
 this game work by thread which activate **game.move()** and in that part we have to try and think what agent will go to which pokemon.
 we use Jframe to show the game and the map to the user.
+
 
 
 **********************
